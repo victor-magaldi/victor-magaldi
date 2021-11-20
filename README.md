@@ -1,5 +1,5 @@
 ## Olá!Eu sou Victor de Souza Magaldi🖐️
-__ Javascript Developer | VTEX IO__  
+__Javascript Developer | VTEX IO__  
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-magaldi&show_icons=true&theme=blue-green&count_private=true)
 
