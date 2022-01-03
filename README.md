@@ -3,6 +3,9 @@ __Javascript Developer | VTEX IO | ReactJS | NodeJS__
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-magaldi&show_icons=true&theme=blue-green&count_private=true)
 
+## Resumo
+  Trabalho mais focado em construção de e-commerces na plataforma VTEX usando algumas das tecnologias citadas logo abaixo, Sempre procuro me manter atualizado e buscar as melhores soluções para sempre entregar o máximo de qualidade e perfomance.
+  
 ## Principais Tecnologias com que eu trabalho
 
 <div style="display: inline_block">
