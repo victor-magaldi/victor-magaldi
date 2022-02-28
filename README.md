@@ -5,7 +5,7 @@ __Javascript Developer | VTEX IO | ReactJS | NodeJS__  💻
 
 ## Resumo
   Entusiasta de Programação, estou sempre estudando sobre todo ecossistema Javascript e buscando conhecimentos em bootcamps, workshops, eventos entre outras maneiras .
-  Atualmente trabalho mais focado na construção de e-commerces com a plataforma VTEX usando algumas das tecnologias citadas logo abaixo, Sempre procuro me manter atualizado e buscar as melhores soluções para sempre entregar o máximo de qualidade e perfomance que um e-commerce pode oferecer. Sempre instruindo e ajudando toda equipe do projeto,  Compartilhar conhecimento é a melhor forma de se reforçar o que aprendeu ao longo do caminho como desenvolvedo.b 
+  Atualmente trabalho mais focado na construção de e-commerces com a plataforma VTEX usando algumas das tecnologias citadas logo abaixo, Sempre procuro me manter atualizado e buscar as melhores soluções para sempre entregar o máximo de qualidade e perfomance que um e-commerce pode oferecer. Sempre instruindo e ajudando toda equipe do projeto,  compartilhar conhecimento  e experiências é a melhor forma de se reforçar o que aprendeu ao longo do caminho como desenvolvedo.b 
   
 ## Principais Tecnologias com que eu trabalho
 
@@ -13,10 +13,10 @@ __Javascript Developer | VTEX IO | ReactJS | NodeJS__  💻
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
+  <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
  <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-
+ <img align="center" alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </div><br/>
