@@ -5,7 +5,7 @@ __Javascript Developer | VTEX IO | ReactJS | NodeJS__  💻
 
 ## Resumo
   Entusiasta de Programação, estou sempre estudando sobre todo ecossistema Javascript e buscando conhecimentos em bootcamps, workshops, eventos entre outras maneiras .
-  Atualmente trabalho mais focado na construção de e-commerces com a plataforma VTEX usando algumas das tecnologias citadas logo abaixo, Sempre procuro me manter atualizado e buscar as melhores soluções para sempre entregar o máximo de qualidade e perfomance que um e-commerce pode oferecer.
+  Atualmente trabalho mais focado na construção de e-commerces com a plataforma VTEX usando algumas das tecnologias citadas logo abaixo, Sempre procuro me manter atualizado e buscar as melhores soluções para sempre entregar o máximo de qualidade e perfomance que um e-commerce pode oferecer. Sempre instruindo e ajudando toda equipe do projeto,  Compartilhar conhecimento é a melhor forma de se reforçar o que aprendeu ao longo do caminho como desenvolvedo.b 
   
 ## Principais Tecnologias com que eu trabalho
 
