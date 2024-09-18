@@ -19,4 +19,5 @@ __Javascript Developer | VTEX IO | ReactJS | NodeJS__  💻
   <img align="center" alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
  <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
  <img align="center" alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img align="center" alt="GraphQL" src="[https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)" />
 </div><br/>
