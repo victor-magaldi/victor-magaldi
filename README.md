@@ -6,7 +6,6 @@
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-magaldi&show_icons=true&theme=blue-green&count_private=true)
 
---
 ## Resumo
 
 Entusiasta de Programação, estou sempre estudando sobre todo o ecossistema Javascript e buscando conhecimentos em bootcamps, workshops e eventos. Atualmente, trabalho mais focado na construção de e-commerces com a plataforma VTEX, usando algumas das tecnologias citadas abaixo.
