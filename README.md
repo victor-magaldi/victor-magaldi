@@ -9,9 +9,7 @@
 ## Resumo
 
 Entusiasta de Programação, estou sempre estudando sobre todo o ecossistema Javascript e buscando conhecimentos em bootcamps, workshops e eventos. Atualmente, trabalho mais focado na construção de e-commerces com a plataforma VTEX, usando algumas das tecnologias citadas abaixo.
-
 Sempre procuro me manter atualizado e buscar as melhores soluções para entregar o máximo de qualidade e performance que um e-commerce pode oferecer. Acredito que compartilhar conhecimento e experiências é a melhor forma de reforçar o que aprendi ao longo do caminho como desenvolvedor.
---
 
 ## Principais Tecnologias com que eu trabalho
 
