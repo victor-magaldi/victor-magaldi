@@ -1,12 +1,19 @@
-## Olá! Eu sou Victor de Souza Magaldi🖐️
-__Javascript Developer | VTEX IO | ReactJS | NodeJS__  💻
+## Olá! Eu sou Victor de Souza Magaldi 🖐️
+
+**Javascript Developer | VTEX IO | ReactJS | NodeJS** 💻
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-magaldi&show_icons=true&theme=blue-green&count_private=true)
 
+---
+
 ## Resumo
-  Entusiasta de Programação, estou sempre estudando sobre todo ecossistema Javascript e buscando conhecimentos em bootcamps, workshops, eventos entre outras maneiras .
-  Atualmente trabalho mais focado na construção de e-commerces com a plataforma VTEX usando algumas das tecnologias citadas logo abaixo, Sempre procuro me manter atualizado e buscar as melhores soluções para sempre entregar o máximo de qualidade e perfomance que um e-commerce pode oferecer. Sempre instruindo e ajudando toda equipe do projeto,  compartilhar conhecimento  e experiências é a melhor forma de se reforçar o que aprendeu ao longo do caminho como desenvolvedo.b 
-  
+
+Entusiasta de Programação, estou sempre estudando sobre todo o ecossistema Javascript e buscando conhecimentos em bootcamps, workshops e eventos. Atualmente, trabalho mais focado na construção de e-commerces com a plataforma VTEX, usando algumas das tecnologias citadas abaixo.
+
+Sempre procuro me manter atualizado e buscar as melhores soluções para entregar o máximo de qualidade e performance que um e-commerce pode oferecer. Acredito que compartilhar conhecimento e experiências é a melhor forma de reforçar o que aprendi ao longo do caminho como desenvolvedor.
+
+---
+
 ## Principais Tecnologias com que eu trabalho
 
 <div style="display: inline_block">
@@ -19,6 +26,5 @@ __Javascript Developer | VTEX IO | ReactJS | NodeJS__  💻
   <img align="center" alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
   <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img align="center" alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-
   <img align="center" alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </div><br/>
