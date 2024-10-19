@@ -1,6 +1,6 @@
 ## Victor de Souza Magaldi 
 
-**Javascript Developer | VTEX IO | ReactJS | NodeJS** 💻
+**Solution Architect & Software Engineer | JavaScript | TypeScript | React | Next.js | NodeJS | Vtex** 💻
 
 [![Victor Magaldi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-de-souza-magaldi-957533208/)
 
