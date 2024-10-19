@@ -1,4 +1,4 @@
-## Olá! Eu sou Victor de Souza Magaldi 🖐️
+## Victor de Souza Magaldi 
 
 **Javascript Developer | VTEX IO | ReactJS | NodeJS** 💻
 
